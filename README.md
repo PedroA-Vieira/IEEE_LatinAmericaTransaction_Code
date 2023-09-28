@@ -16,7 +16,7 @@ II - Programs for processing the measured signal
 The program: SinalVegetacao_GraficosSinaisProcessados_v3.py has as input the files compressed in the folder: ArquivosProcessamento and the file with the system data: dadosDoSistema_v1.xlsx.
 Once unzipped, the files will be in .xlsx format.
 
-III - Programs for studying the machine learning model.
+III - Programs for studying the machine learning model
 
 The programs:
 * SinalVegetacao_MLP_Keras_v14
