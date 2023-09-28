@@ -23,4 +23,4 @@ The programs:
 * SinalVegetacao_MLP_Sklearn_v13.py
 
 are essentially the same. The first uses Keras library and the second SkLearn library, but both building multilayer perceptron neural network (RNA-MLP) architecture.
-The inputs are not the same or the results equivalent.
+The inputs are the same and the results are equivalent.
