@@ -8,7 +8,7 @@ Aluno: Pedro A. Vieira
 Data da criação:
 Data da modificação:  
 Versão:
-Descrisão:
+Descrição:
 '''
 #
 #%% Bibliotecas
